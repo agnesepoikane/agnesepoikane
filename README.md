@@ -9,6 +9,7 @@ Esmu socioloģe un datu analītiķe ar vairāku gadu pieredzi valsts pārvaldē 
 
 
 :chart_with_upwards_trend: Daži no īstenotajiem projektiem:
+- [mobilās aplikācijas lietotāju pieredzes analīze](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Analyst/blob/master/12_final_project/12_final_project.ipynb) ar mērķi noteikt, kādas darbības mobilajā aplikācijā biežāk veic tie lietotāji, kuri pāriet uz publicētā sludinājuma kontaktu sadaļu 
 - [ML modeļa izstrāde](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/01_introduction_to_ML/01_project.ipynb), kas nosaka klientam piemērotāko mobilo sakaru tarifu
 - [ML modeļa izstrāde](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/03_ML_for_business/03_project.ipynb), kas nosaka, kurš no reģioniem ir visizdevīgākais naftas izstrādei
 

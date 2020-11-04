@@ -7,7 +7,7 @@ Esmu socioloģe un datu analītiķe ar vairāku gadu pieredzi valsts pārvaldē 
 - saistīti ar datu analīzi sociālajos uzņēmumos vai uzņēmumos ar augstu sociālo atbildību 
 - vērsti uz sociālo problēmu risināšanu.
 
-Lielākā daļa no repozitorijos publicētajiem projektiem ir krievu valodā. Ja vēlies kādu no projektiem lasīt latviešu valodā, lūdzu, uzraksti man e-pastu vai ziņu LinkedIn. Raksti ziņu arī tad, ja vēlies kopā realizēt kādu datu analītikas projektu. 
+Lielākā daļa no repozitorijos publicētajiem projektiem ir krievu valodā. Ja vēlies kādu no projektiem lasīt latviešu valodā, lūdzu, uzraksti man ziņu LinkedIn. Raksti ziņu arī tad, ja vēlies kopā realizēt kādu datu analītikas projektu. 
 
 
 :small_blue_diamond: [LinkedIn](https://www.linkedin.com/in/agnese-poikane/) 
